@@ -1,6 +1,10 @@
 /**
  * Implementacion del problema de la busqueda de subcadenas comunes a dos cadenas dadas
  * Algoritmo de programacion dinámica
+ * Fichero de prueba:
+ * 	-entrada.txt
+ * 	-entrada1.txt
+ * 	-entrada2.txt
  */
 
 package practica2;

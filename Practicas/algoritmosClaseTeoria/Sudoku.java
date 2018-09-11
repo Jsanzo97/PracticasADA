@@ -6,6 +6,10 @@
  * Ejemplo:
  *  -Fichero = Sudoku1.txt
  *  -Nombre = Sudoku1
+ *  
+ * Ficheros deprueba:
+ * 	-Sudoku1.txt
+ * 	-Sudoku2.txt
  */
 
 package algoritmosClaseTeoria;
